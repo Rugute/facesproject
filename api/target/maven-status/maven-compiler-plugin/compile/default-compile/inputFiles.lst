@@ -1,0 +1,7 @@
+/home/rugute/openmrsdemo/facesreception/api/src/main/java/org/openmrs/module/facesreception/FacesReception.java
+/home/rugute/openmrsdemo/facesreception/api/src/main/java/org/openmrs/module/facesreception/DemoPerson.java
+/home/rugute/openmrsdemo/facesreception/api/src/main/java/org/openmrs/module/facesreception/api/FacesReceptionService.java
+/home/rugute/openmrsdemo/facesreception/api/src/main/java/org/openmrs/module/facesreception/api/db/FacesReceptionDAO.java
+/home/rugute/openmrsdemo/facesreception/api/src/main/java/org/openmrs/module/facesreception/api/impl/FacesReceptionServiceImpl.java
+/home/rugute/openmrsdemo/facesreception/api/src/main/java/org/openmrs/module/facesreception/api/db/hibernate/HibernateFacesReceptionDAO.java
+/home/rugute/openmrsdemo/facesreception/api/src/main/java/org/openmrs/module/facesreception/FacesReceptionActivator.java

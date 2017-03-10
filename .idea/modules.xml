@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/facesreception.iml" filepath="$PROJECT_DIR$/facesreception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/facesreception-api.iml" filepath="$PROJECT_DIR$/api/facesreception-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/omod/facesreception-omod.iml" filepath="$PROJECT_DIR$/omod/facesreception-omod.iml" />
+    </modules>
+  </component>
+</project>

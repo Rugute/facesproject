@@ -1,0 +1,7 @@
+org/openmrs/module/facesreception/api/db/FacesReceptionDAO.class
+org/openmrs/module/facesreception/FacesReception.class
+org/openmrs/module/facesreception/api/FacesReceptionService.class
+org/openmrs/module/facesreception/api/db/hibernate/HibernateFacesReceptionDAO.class
+org/openmrs/module/facesreception/DemoPerson.class
+org/openmrs/module/facesreception/FacesReceptionActivator.class
+org/openmrs/module/facesreception/api/impl/FacesReceptionServiceImpl.class
